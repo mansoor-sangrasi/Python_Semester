@@ -2,6 +2,7 @@
 #The program will then check the denominator that if denominator is zero or not. If its zero it can
 #reply the equation cannot solve as there is a zero division else, it will execute the program and will
 #generate two solutions.
+
 from math import sqrt
 a=int(input("Enter value of a="))
 b=int(input("Enter value of b="))
